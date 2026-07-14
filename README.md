@@ -15,7 +15,9 @@ Sélectionner les composants adaptés au projet.
 Assembler et tester la carte.
 Développer les premiers programmes sur le STM32F103C8T6.
 Acquérir une expérience complète en conception de cartes électroniques.
+
 Outils utilisés
+
 KiCad
 STM32CubeMX
 STM32CubeIDE
