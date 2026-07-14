@@ -48,6 +48,5 @@ Développement des premiers exemples logiciels
 
 Ce projet est publié à des fins d'apprentissage et de partage.
 
-* Remarque:
-      
-      -Pour cette première version de la carte, le choix retenu est d'utiliser le contrôleur USB intégré au STM32F103C8T6 plutôt qu'un convertisseur USB-UART externe. Le connecteur USB-C sera utilisé pour alimenter la carte et connecter directement les lignes D+ et D− au microcontrôleur, tandis que la programmation et le débogage seront assurés via une interface SWD à l'aide d'un ST-Link. Cette approche permet de simplifier le schéma électronique, de réduire le nombre de composants et de se familiariser avec le mode de développement recommandé par STMicroelectronics. Elle offre également une base solide pour intégrer ultérieurement des fonctionnalités USB natives, telles qu'un port série virtuel (USB CDC), un périphérique HID ou un bootloader USB, sans nécessiter de modification matérielle de la carte.
+* Remarque: 
+      - Pour cette première version de la carte, le choix retenu est d'utiliser le contrôleur USB intégré au STM32F103C8T6 plutôt qu'un convertisseur USB-UART externe. Le connecteur USB-C sera utilisé pour alimenter la carte et connecter directement les lignes D+ et D− au microcontrôleur, tandis que la programmation et le débogage seront assurés via une interface SWD à l'aide d'un ST-Link. Cette approche permet de simplifier le schéma électronique, de réduire le nombre de composants et de se familiariser avec le mode de développement recommandé par STMicroelectronics. Elle offre également une base solide pour intégrer ultérieurement des fonctionnalités USB natives, telles qu'un port série virtuel (USB CDC), un périphérique HID ou un bootloader USB, sans nécessiter de modification matérielle de la carte.
