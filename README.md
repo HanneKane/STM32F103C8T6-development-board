@@ -10,10 +10,15 @@ L'objectif n'est pas de reproduire toutes les fonctionnalités d'une carte exist
 Objectifs
 
 -Concevoir le schéma électronique de la carte.
+
 -Réaliser le routage du PCB avec KiCad.
+
 -Sélectionner les composants adaptés au projet.
+
 -Assembler et tester la carte.
+
 -Développer les premiers programmes sur le STM32F103C8T6.
+
 -Acquérir une expérience complète en conception de cartes électroniques.
 
 Outils utilisés
