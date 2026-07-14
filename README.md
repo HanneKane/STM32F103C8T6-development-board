@@ -1,7 +1,7 @@
 # STM32F103C8T6-development-board
 Conception d'une carte de développement basée sur le microcontrôleur STM32F103C8T6.
 
-Présentation
+* Présentation
 
 Ce projet a pour objectif de concevoir une carte de développement basée sur le microcontrôleur STM32F103C8T6. Réalisée entièrement à partir de zéro, cette carte constitue un support d'apprentissage pour la conception électronique et le développement de systèmes embarqués.
 
