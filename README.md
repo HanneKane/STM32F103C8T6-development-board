@@ -23,13 +23,13 @@ L'objectif n'est pas de reproduire toutes les fonctionnalités d'une carte exist
 
 * Outils utilisés
 
-- KiCad
+-KiCad
 
-- STM32CubeMX
+-STM32CubeMX
   
-- STM32CubeIDE
+-STM32CubeIDE
   
-- ST-Link
+-ST-Link
 
 * État du projet
 
