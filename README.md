@@ -7,7 +7,7 @@ Ce projet a pour objectif de concevoir une carte de développement basée sur le
 
 L'objectif n'est pas de reproduire toutes les fonctionnalités d'une carte existante, mais de créer une plateforme simple, fiable et évolutive permettant de développer et de tester des applications embarquées.
 
-Objectifs
+* Objectifs
 
 -Concevoir le schéma électronique de la carte.
 
@@ -21,18 +21,18 @@ Objectifs
 
 -Acquérir une expérience complète en conception de cartes électroniques.
 
-Outils utilisés
+* Outils utilisés
 
 KiCad
 STM32CubeMX
 STM32CubeIDE
 ST-Link
 
-État du projet
+* État du projet
 
 🚧 Le projet est actuellement en cours de développement.
 
-Les prochaines étapes sont :
+* Les prochaines étapes sont :
 
 Création du schéma électronique
 Conception du PCB
@@ -41,6 +41,6 @@ Assemblage des composants
 Validation matérielle
 Développement des premiers exemples logiciels
 
-Licence
+* Licence
 
 Ce projet est publié à des fins d'apprentissage et de partage.
